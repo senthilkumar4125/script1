@@ -3,8 +3,8 @@
 # Define VM IPs
 master_ip="54.88.178.250"
 slave_ip="3.90.26.121"
-sonarqube_ip="18.206.235.239"
-dev_vm_ip="34.229.148.102"
+sonarqube_ip="18.206.236.239"
+dev_vm_ip="34.229.148.106"
 
 # Define PEM key file path
 PEM_KEY_PATH="/home/venkat/pem/test.pem"
