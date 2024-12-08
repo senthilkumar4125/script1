@@ -1,8 +1,8 @@
 #!/bin/sudo bash
 
 # Define VM IPs
-master_ip="54.88.178.148"
-slave_ip="3.90.26.12"
+master_ip="54.88.178.250"
+slave_ip="3.90.26.121"
 sonarqube_ip="18.206.235.239"
 dev_vm_ip="34.229.148.102"
 
